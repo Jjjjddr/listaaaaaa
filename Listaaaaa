@@ -1,0 +1,19 @@
+#EXTM3U
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="Desenhos",Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Desenhos",DisneyXD
+http://163.172.41.91:8081/loadbalance/ disney-xd/chunks.m3u8?nimblesessionid=93584486&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDE41DU6MTU6NDEGUEOmaGFzaF92YWx1ZT1ORFMWUG9TdXpQVytldVdmYU45YW9BPTOmdmFsaWRtaW51dGVzPTlw
+
+
+EXTINF:-1 tvg-logo="" group-title="Desenhos",Boomerang
+https://live.multicanais.com/live/boomeranghd/video.m3u8?md5=bjgSWapO79xCuoZE4HOOBQ&expires=1584721661
+
+
+EXTINF:-1 tvg-logo="" group-title="Desenhos",Cartoon Network
+https://live.multicanais.com/mylive/cartoonnetworksd/video.m3u8?md5=EqgZgNRxatTRoJlKnkSIVA&expires=1584721897
